@@ -1,1 +1,1 @@
-Ce projet consiste à développer des fonctions pour manipuler des listes chaînées et les utiliser dans une simulation simplifiée d'un écosystème, comprenant des proies et des prédateurs, dans un monde discret représenté par un tableau à deux dimensions.
+Une simulation d'écosystème simple où des proies et des prédateurs cohabitent et interagissent dans un monde discret
