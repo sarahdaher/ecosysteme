@@ -1,1 +1,2 @@
-Une simulation d'écosystème simple où des proies et des prédateurs cohabitent et interagissent dans un monde discret
+
+Simulation d'un écosystème avec des proies et des prédateurs en utilisant des listes chaînées dans un monde discret représenté par un tableau à deux dimensions.
